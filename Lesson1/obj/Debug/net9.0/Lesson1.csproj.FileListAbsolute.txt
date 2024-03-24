@@ -1,0 +1,14 @@
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/bin/Debug/net9.0/Lesson1
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/bin/Debug/net9.0/Lesson1.deps.json
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/bin/Debug/net9.0/Lesson1.runtimeconfig.json
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/bin/Debug/net9.0/Lesson1.dll
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/bin/Debug/net9.0/Lesson1.pdb
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.dll
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/refint/Lesson1.dll
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.pdb
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/ref/Lesson1.dll
