@@ -1,0 +1,15 @@
+/Users/lukinlukina/Desktop/LCsharp/Task22/bin/Debug/net9.0/Task22
+/Users/lukinlukina/Desktop/LCsharp/Task22/bin/Debug/net9.0/Task22.deps.json
+/Users/lukinlukina/Desktop/LCsharp/Task22/bin/Debug/net9.0/Task22.runtimeconfig.json
+/Users/lukinlukina/Desktop/LCsharp/Task22/bin/Debug/net9.0/Task22.dll
+/Users/lukinlukina/Desktop/LCsharp/Task22/bin/Debug/net9.0/Task22.pdb
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.sourcelink.json
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.dll
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/refint/Task22.dll
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.pdb
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/Task22.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/LCsharp/Task22/obj/Debug/net9.0/ref/Task22.dll
