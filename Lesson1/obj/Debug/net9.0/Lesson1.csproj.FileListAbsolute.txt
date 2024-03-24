@@ -12,3 +12,4 @@
 /Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.pdb
 /Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.genruntimeconfig.cache
 /Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/ref/Lesson1.dll
+/Users/lukinlukina/Desktop/LCsharp/Lesson1/obj/Debug/net9.0/Lesson1.sourcelink.json
