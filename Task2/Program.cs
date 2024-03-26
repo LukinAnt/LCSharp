@@ -12,7 +12,7 @@ double sum3 = d1 + i1;
 
 int product1 = i1 * i2;
 long product2 = l1 * i1;
-double product3 = i1 *d1;
+double product3 = i1 * d1;
 
 Console.WriteLine(sum3);
 Console.WriteLine(product1);
